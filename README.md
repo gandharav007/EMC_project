@@ -2,7 +2,7 @@
 
 In this project I have used python as well as googles's gmail API to create a program which can scrape the data from the emails of any particualr gmail ID.
 The program checks the INBOX of the target gmail ID and then scrapes the data from the emails which have "Thank You for applying" as a substring in their subject.
-After scarping the email body of such emails , the program uses this data and K-means clustering technique to group the emails by creating different clusters which can provide us"\n" insights about the data present in the emails and help us to classify according to job category. 
+After scarping the email body of such emails , the program uses this data and K-means clustering technique to group the emails by creating different clusters which can provide us insights about the data present in the emails and help us to classify according to job category. 
 
 Please go through the following steps to run the program:-
 1. please run the following command in your jupyter notebook/(relevant python development environment) to install the required packages before running the program.
