@@ -1,4 +1,4 @@
-# email_scraping_and_classification
+# Email scraping and classification
 
 In this project I have used python as well as googles's gmail API to create a program which can scrape the data from the emails of any particualr gmail ID.
 The program checks the INBOX of the target gmail ID and then scrapes the data from the emails which have "Thank You for applying" as a substring in their subject.
@@ -27,7 +27,7 @@ Please go through the following steps to run the program:-
 
 ![Screenshot](sc2.png)
 ![Screenshot](sc3.png)
-![Screenshot](sc4.png)
+
 
 
 
