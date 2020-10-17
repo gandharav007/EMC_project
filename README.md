@@ -33,7 +33,7 @@ Please go through the following steps to run the program:-
 
 4. Then the program will automatically scrape the data from the relevant emails and use K-means clustering (an unsupervised learning algorithm) to form different clusters along with that it will display the graphical data related to  resulting clusters which will give an insight about what type of information is present in all the emails. This graphical data will help us to gain the information about the "job category" regarding which the user has recieved the emails.
 
-5. The graph represents the cluster centers along with the number of email data points belonging to that cluster (all the clusters have different colors).points blonging to one particular cluster will have similar color.
+5. The graph represents the cluster centers along with the number of email data points belonging to that cluster (all the clusters have different colors).Points belonging to one particular cluster will have similar color.
 
 6. Then the bar graphs Below represents the relevant/important words present in the emails belonging to a particular cluster and their tfidf score. Each cluster has a different bar graph. The screenshot below shows the graphs output of a sample run.
 
