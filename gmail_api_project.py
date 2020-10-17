@@ -55,7 +55,7 @@ def fn(service_object,msg_ids,user_id):# function to extract the relevant emails
             
             if g['name']=='Subject':
                 
-                if "Thank You for applying" in g['value']: 
+                if "Thank you for applying" in g['value']: 
                     
                     res2=service_object.users().messages().get(userId='me',id=msg_ids[i],format='raw').execute()
                     
